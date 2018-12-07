@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #00e5ff;
+      }
+
+      .cls-2 {
+        fill: #00e5ff;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="icon-facebook" transform="translate(-355 -2414)">
+    <g id="Ellipse_18" data-name="Ellipse 18" class="cls-1" transform="translate(355 2414)">
+      <circle class="cls-3" cx="25" cy="25" r="25"/>
+      <circle class="cls-4" cx="25" cy="25" r="24.5"/>
+    </g>
+    <path id="Path_2546" data-name="Path 2546" class="cls-2" d="M87.463,22.021V11.989h3.426l.489-3.915H87.463V5.628c0-1.1.367-1.957,1.957-1.957H91.5V.122C91.011.122,89.787,0,88.442,0c-2.936,0-5.016,1.835-5.016,5.138V8.075H80v3.915h3.426V22.021Z" transform="translate(294 2428)"/>
+  </g>
+</svg>

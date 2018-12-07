@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body {
+    font-family: "Roboto"
+}
+header {
+    background-image: url(images/fundo-abstrato1.png);
+    padding: 20px 50px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-top a {
+    color: #00E5FF;
+}
+.botao-solido-ciano {
+    background-color: #00E5FF;
+    padding: 20px;
+    border-radius: 10px;
+}
+.header-top .botao-solido-ciano {
+    margin-left: 50px;
+}
+.header-conteudo {
+    text-align: left;
+    text-transform: none;
+    color: white;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #00e5ff;
+      }
+
+      .cls-2 {
+        fill: #00e5ff;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="icon-google" transform="translate(-430 -2414)">
+    <g id="Ellipse_16" data-name="Ellipse 16" class="cls-1" transform="translate(430 2414)">
+      <circle class="cls-3" cx="25" cy="25" r="25"/>
+      <circle class="cls-4" cx="25" cy="25" r="24.5"/>
+    </g>
+    <path id="Path_2545" data-name="Path 2545" class="cls-2" d="M30.5,8.387v2.859H27.641v2.859H24.781v-3.05H21.922V8.387h2.859V5.528h2.859V8.387Zm-20.778,0h9.15c0,.572.191.953.191,1.525,0,5.528-3.622,9.531-9.341,9.531A9.722,9.722,0,0,1,9.722,0,9.413,9.413,0,0,1,16.2,2.478L13.534,5.147A5.082,5.082,0,0,0,9.722,3.622a6.142,6.142,0,0,0-6.1,6.1,6.022,6.022,0,0,0,6.1,6.1c3.812,0,5.337-2.669,5.528-4.194H9.722Z" transform="translate(440 2429)"/>
+  </g>
+</svg>
